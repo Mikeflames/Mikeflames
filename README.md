@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mikeflames aka Mishal Singhai
-- 👀 I’m interested in Competitive Coding and Storage System Managemnet
-- 🌱 I’m currently learning Ceph
-- 💞️ I’m looking to collaborate on Electronic topics,Data Management,Web -Development.
+- 👀 I’m interested in OPen Source Software Developmemt and Storage System Managemnet
 - 📫 How to reach me ...
 
 <!---
