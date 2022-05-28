@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikeflames aka Mishal Singhai
+- 👋 Hi, I’m Mishal Singhai aka @Mikeflames 
 - 👀 I’m interested in Open Source Software Developmemt and Web Development
 - 📫 Email me at : 19uec076@lnmiit.ac.in
 
