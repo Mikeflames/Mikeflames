@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mikeflames aka Mishal Singhai
-- 👀 I’m interested in Open Source Software Developmemt and Storage System Managemnet
+- 👀 I’m interested in Open Source Software Developmemt and Web Development
 - 📫 Email me at : 19uec076@lnmiit.ac.in
 
 <!---
