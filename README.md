@@ -45,5 +45,5 @@ I am a tech enthusiast & an open-source Developer. I am always open to collabora
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mikeflames&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeflames&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mikeflames.mikeflames)
+![Profile Visits](https://komarev.com/ghpvc/?username=mikeflames&style=flat-square)
 - 📫 For any Query Email me at : 19uec076@lnmiit.ac.in
