@@ -2,7 +2,7 @@
 <img src="https://github.com/Mikeflames/Mikeflames/blob/main/Hello-World.png" align="center" height="400" width="900">
 
 
-## 👋 Hello there , Welcome! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello there , Welcome! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Mishal Singhai aka mikeflames, currently pursuing my bachelor's degree in ECE from [The LNM Institute of Information and Technology](https://https://www.lnmiit.ac.in/). 
 I am a tech enthusiast & an open-source Developer. I am always open to collaborating on projects and innovative/disruptive ideas.
