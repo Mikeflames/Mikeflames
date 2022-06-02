@@ -43,8 +43,9 @@ I am a tech enthusiast & an open-source Developer. I am always open to collabora
 <!--![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
 <!-- raw HTML omitted -->
+![Mishal's github stats](https://github-readme-stats.vercel.app/api?username=mikeflames&show_icons=true&theme=radical)
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=mikeflames&count_private=true&show_icons=true&include_all_commits=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeflames&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeflames&hide=TeX&layout=compact&langs_count=8)
 
 <!-- ![Profile Visits](https://komarev.com/ghpvc/?username=mikeflames&style=flat-square) -->
 - 📫 For any Query Email me at : 19uec076@lnmiit.ac.in
