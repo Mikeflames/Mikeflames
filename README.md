@@ -8,11 +8,11 @@
 I am Mishal Singhai aka mikeflames, currently pursuing my bachelor's degree in ECE from [The LNM Institute of Information and Technology](https://https://www.lnmiit.ac.in/). 
 I am a tech enthusiast & an open-source Developer. I am always open to collaborating on projects and innovative/disruptive ideas.
 - ⚡ Have a Talk : Always ready to have a talk on Space and Future Technology.
-- 📫 How to reach me:
+<!-- - 📫 How to reach me: -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-mishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishal-singhai-6004101b2/)](https://www.linkedin.com/in/mishal-singhai-6004101b2/)
-[![Instagram Badge](https://img.shields.io/badge/-mishal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/mishal_singhai/)](https://www.instagram.com/mishal_singhai/)
-[![Gmail Badge](https://img.shields.io/badge/-19uec076@lnmiit.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:19uec076@lnmiit.ac.in)](mailto:19uec076@lnmiit.ac.in)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-mishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishal-singhai-6004101b2/)](https://www.linkedin.com/in/mishal-singhai-6004101b2/) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-mishal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/mishal_singhai/)](https://www.instagram.com/mishal_singhai/) -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/-19uec076@lnmiit.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:19uec076@lnmiit.ac.in)](mailto:19uec076@lnmiit.ac.in) -->
 
 ## ⚡ Technologies
 
@@ -54,4 +54,4 @@ I am a tech enthusiast & an open-source Developer. I am always open to collabora
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeflames&hide=TeX&layout=compact&langs_count=8)
 
 <!-- ![Profile Visits](https://komarev.com/ghpvc/?username=mikeflames&style=flat-square) -->
-- 📫 For any Query Email me at : 19uec076@lnmiit.ac.in
+<!-- - 📫 For any Query Email me at : 19uec076@lnmiit.ac.in -->
