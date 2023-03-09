@@ -5,8 +5,9 @@
 ## 👋Hello there , Welcome! 
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px"> -->
 
-I am Mishal Singhai aka mikeflames, currently pursuing my bachelor's degree in ECE from [The LNM Institute of Information and Technology](https://https://www.lnmiit.ac.in/). 
+I am Mishal Singhai aka mikeflames, currently pursuing my bachelor's degree from [The LNM Institute of Information and Technology](https://https://www.lnmiit.ac.in/). 
 I am a tech enthusiast & an open-source Developer. I am always open to collaborating on projects and innovative/disruptive ideas.
+I have Contributed to Open-Source Projects which helped me to learn and grow with Communities.
 - ⚡ Have a Talk : Always ready to have a talk on Space and Future Technology.
 <!-- - 📫 How to reach me: -->
 
